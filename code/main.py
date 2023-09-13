@@ -15,7 +15,7 @@ from models.ReadabilityMetrics import ReadabilityMetrics
 
 def init():
     """
-    Method to init the application
+    Способ инициализации приложения
     :return: None
     """
     configureLogging()
